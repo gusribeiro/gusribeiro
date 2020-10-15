@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<figure>
+  <img width="400px" height="300px" src="https://wakatime.com/share/@d4dbe5d2-1ebd-4616-99ca-e16b35774374/f0ff7b9b-ddbd-4eda-9cc4-e424410b3a22.svg" />
+</figure>
+
 <!--
 **gusribeiro/gusribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
