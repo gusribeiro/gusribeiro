@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <figure>
-  <img width="400px" height="300px" src="https://wakatime.com/share/@d4dbe5d2-1ebd-4616-99ca-e16b35774374/f0ff7b9b-ddbd-4eda-9cc4-e424410b3a22.svg" />
+  <img width="40%" height="30%" src="https://wakatime.com/share/@d4dbe5d2-1ebd-4616-99ca-e16b35774374/b8d6b1de-b04f-4b14-af2f-a7b322727acf.svg" />
 </figure>
 
 <!--
